@@ -9,7 +9,7 @@ while cont <= 2:
  print("Escriba su contrasena")
  contrasena = input()
  if usuario.upper() == "ANGELPORRASL" and contrasena.upper() == "ANGELPORRAS2022":
-        print("Datos son correctos, Bienvenido al Sistema!")
+        print("Datos correctos, Bienvenido al Sistema!")
         cont = 3
         respuesta = "si"
         while (respuesta == "si"):
